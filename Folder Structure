@@ -1,0 +1,13 @@
+telecom-customer-churn-analysis/
+│
+├── data/
+│   └── telecom_churn_data.xlsx
+│
+├── powerbi/
+│   └── churn_analysis_dashboard.pbix
+│
+├── images/
+│   └── churn_dashboard_preview.png
+│
+├── README.md
+└── insights.txt
